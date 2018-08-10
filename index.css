@@ -1,5 +1,9 @@
 .section-green {
+<<<<<<< HEAD
   background-color: firebrick; 
+=======
+  background-color: green;
+>>>>>>> master
 }
 
 .section-blue {
