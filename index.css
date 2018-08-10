@@ -1,12 +1,16 @@
 .section-green {
+<<<<<<< HEAD
+  background-color: firebrick; 
+=======
   background-color: green;
+>>>>>>> master
 }
 
 .section-blue {
-  background-color: yellow;
+  background-color: pink;
 }
 
 .section-red {
-  background-color: indigo;
+  background-color: greenyellow;
 }
 
